@@ -1,4 +1,4 @@
-# NYCrashReposrt2021
+# NYCrashReports2021
 
 The dataset is publicly available on the Data.org website. https://catalog.data.gov/dataset/motor-vehicle-collisions-person
 
